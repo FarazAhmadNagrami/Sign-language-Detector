@@ -2,7 +2,7 @@
 This is a sign Language Detector which converts Sign language to its Character form.
 
 **Training the model ans saving the weights for the model
-**![trainpic - Copy](https://user-images.githubusercontent.com/43677124/135725984-4665c3bd-f62f-49e2-93c0-4abf6fe8bf39.PNG)
+**![trainpic](https://user-images.githubusercontent.com/43677124/135726024-9b2ab03b-1a14-4df1-b531-a78dea424f84.PNG)
 
 
 **User Interface is created using Tkinter
