@@ -1,7 +1,7 @@
 # Sign-language-Detector
 This is a sign Language Detector which converts Sign language to its Character form.
 
-**Training the model ans saving the weights
+**Training the model ans saving the weights for the model
 **![trainpic](https://user-images.githubusercontent.com/43677124/135724605-5a021136-15b3-442a-9f83-6c9b8b587cf4.PNG)
 **UI using Tkinter
 **
